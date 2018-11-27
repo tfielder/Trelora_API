@@ -1,24 +1,13 @@
-# README
+# TRELORA API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a rails app to stub out API requests from apps created by students at the Turing School of Software Design in collaboration with TRELORA. 
 
-Things you may want to cover:
+## To use: 
+1. Point your application to use the following url as the API endpoint
+`https://trylora.herokuapp.com/`
 
-* Ruby version
+2. Everything Should work as TRELORA's API did. You can visit the following endpoint for information regarding what is available
+`https://trylora.herokuapp.com/api/v0/turing/docs`
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contributing
+If there is anything that isn't working as expected you can make a PR with the necessary changes. 
