@@ -1,8 +1,8 @@
 # TRELORA API
 
-This is a rails app to stub out API requests from apps created by students at the Turing School of Software Design in collaboration with TRELORA. 
+This is a rails app to stub out API requests from apps created by students at the Turing School of Software Design in collaboration with TRELORA.
 
-## To use: 
+## To use:
 1. Point your application to use the following url as the API endpoint
 `https://trelora-sample-api.herokuapp.com/`
 
@@ -10,4 +10,5 @@ This is a rails app to stub out API requests from apps created by students at th
 `https://trelora-sample-api.herokuapp.com/api/v0/turing/docs`
 
 ## Contributing
-If there is anything that isn't working as expected you can make a PR with the necessary changes. 
+If there is anything that isn't working as expected you can make a PR with the necessary changes.
+ 
